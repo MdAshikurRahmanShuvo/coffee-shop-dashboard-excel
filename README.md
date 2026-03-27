@@ -1,24 +1,57 @@
-# Coffee Shop Sales Dashboard (Excel)
+# ☕ Coffee Shop Sales Dashboard (Excel)
 
-## Overview
-This is an interactive Excel dashboard analyzing coffee shop sales data.
+## 📊 Overview
+This project showcases an interactive Excel dashboard designed to analyze coffee shop sales performance. It transforms raw transactional data into meaningful insights to support data-driven decision-making.
 
-## Features
-- Total Sales, Profit, Quantity KPIs
-- Branch-wise performance
-- Product category analysis
-- Slicers for filtering
+## 🎯 Project Objectives
+- Analyze sales and revenue trends  
+- Identify top-performing products  
+- Evaluate branch-wise performance  
+- Monitor profit and cost efficiency  
 
-## Tools Used
-- Microsoft Excel
-- Pivot Table
-- Slicers
+## 🚀 Key Features
+- 📈 Dynamic KPIs (Total Sales, Profit, Quantity Sold)  
+- 🏪 Branch-wise performance comparison  
+- 📦 Product category insights  
+- 📅 Time-based sales trends  
+- 🎛️ Interactive slicers for filtering  
 
-## Preview
-<img width="1860" height="633" alt="image" src="https://github.com/user-attachments/assets/5e7259a4-1e91-4abe-98d1-da27bb5c3adf" />
-<img width="1860" height="545" alt="image" src="https://github.com/user-attachments/assets/edd80fbb-3d36-4e91-b426-677a27033086" />
+## 🛠️ Tools & Techniques
+- Microsoft Excel  
+- Pivot Tables  
+- Pivot Charts  
+- Slicers  
+- Data Cleaning & Transformation  
 
+## 📷 Dashboard Preview
+<p align="center">
+  <img src="dashboard.png" width="800"/>
+</p>
 
+## 📂 Dataset Description
+The dataset includes:
+- Transaction ID  
+- Date  
+- Branch & Location  
+- Product Category  
+- Quantity Sold  
+- Price & Cost  
+- Revenue & Profit  
 
-## Author
-Md Ashikur Rahman Shuvo
+## 💡 Key Insights
+- Identified high-performing branches  
+- Discovered top-selling product categories  
+- Analyzed revenue vs cost trends  
+- Highlighted profit-driving segments  
+
+## 📌 How to Use
+1. Download the Excel file  
+2. Open in Microsoft Excel  
+3. Use slicers to interact with the dashboard  
+4. Explore KPIs and visual insights  
+
+## 👨‍💻 Author
+**Md Ashikur Rahman Shuvo**
+
+## 🌐 Project Link
+https://github.com/MdAshikurRahmanShuvo/coffee-shop-dashboard-excel
