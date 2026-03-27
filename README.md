@@ -26,8 +26,9 @@ This project showcases an interactive Excel dashboard designed to analyze coffee
 ## 📷 Dashboard Preview
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d7e950fc-4158-480f-a41c-806a885ffd01" width="45%"/>
-  <img src="https://github.com/user-attachments/assets/f3ef9c58-3565-4066-9255-0ac0cd0487c6" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/f3ef9c58-3565-4066-9255-0ac0cd0487c6" width="75%"/>
+  <img src="https://github.com/user-attachments/assets/d7e950fc-4158-480f-a41c-806a885ffd01" width="75%"/>
+  
 </p>
 
 ## 📂 Dataset Description
